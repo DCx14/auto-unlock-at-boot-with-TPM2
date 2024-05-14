@@ -1,4 +1,4 @@
-# Déverrouillage automatique des volumes LUKS à l'aide d'une puce TPM2
+# Déverrouillage automatique des volumes LUKS à l'aide d'une puce TPM2 & clevis
 
 
 Le chiffrement des données au repos est un élément clé de la sécurité.  LUKS permet de chiffrer les volumes Linux, y compris les volumes de données et le volume racine contenant l'OS. L'OS peut fournir les clés cryptographiques pour les volumes de données, mais quelque chose doit fournir la clé du volume racine pour permettre au système de démarrer.
