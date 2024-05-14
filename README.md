@@ -18,9 +18,10 @@ Prérequis:
 ## Mise en place
 
 ```
+git clone https://github.com/DCx14/auto-unlock-at-boot-with-TPM2.git
+cd auto-unlock-at-boot-with-TPM2
 chmod a+x tpm.sh 
 ./tpm.sh
-
 ```
   
 
